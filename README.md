@@ -1,4 +1,3 @@
-# Tomato_Freshness_Classifier
 ## Dataset
 
 This project uses the [**FGrade: Tomato Freshness Grading Dataset**](https://github.com/skarifahmed/FGrade) created by [Skarif Ahmed et al.](https://github.com/skarifahmed). It contains thousands of annotated tomato images labeled with different freshness scores.
